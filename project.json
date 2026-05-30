@@ -1,0 +1,6 @@
+# portfolio
+A modern full-stack Personal Portfolio Website for a Computer Science student.  Frontend: HTML5, CSS3, JavaScript, Bootstrap 5 (or React.js)  Backend: Node.js with Express.js  Database: MongoDB
+{
+  "schemaVersion": 1,
+  "template": "tanstack_start_ts_2026-05-29"
+}
